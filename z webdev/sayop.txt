@@ -1,0 +1,46 @@
+<title> Rounded Image</title>
+<style>
+body{
+background:gray;
+}
+.rounded[
+width:300px;
+margin:auto;
+}
+.round img{
+border-radius:50%;
+}
+</style>
+</head>
+
+
+<body>
+<div class ="rounded">
+<img src="1.jpg" class="rounded"alt="JIBOY CUTIE" width="500" height="600">
+<img src="2.jpg" alt="JIBOY CUTIE" width="400" height="700">
+<img src="3.jpg" alt="JIBOY CUTIE" width="700" height="700">
+<img src="4.jpg" alt="JIBOY CUTIE" width="400" height="700">
+<img src="5.jpg" alt="JIBOY CUTIE" width="400" height="700">
+<img src="6.jpg" alt="JIBOY CUTIE" width="500" height="700">
+<img src="7.jpg" alt="JIBOY CUTIE" width="500" height="700">
+<img src="8.jpg" alt="JIBOY CUTIE" width="400" height="700">
+<img src="9.jpg" alt="JIBOY CUTIE" width="800" height="600">
+<img src="10.jpg" alt="JIBOY CUTIE" width="400" height="600">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
